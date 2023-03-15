@@ -2,7 +2,9 @@
     "posts": [
       { "id": 1, "title": "json-server1", "author": "typicode1" },
       { "id": 2, "title": "json-server2", "author": "typicode2" }
+    ],
+    "users": [
+      { "id": 1, "name": "nameofuser1"},
+      { "id": 2, "name": "nameofuser2"}
     ]
   }
-
-  
