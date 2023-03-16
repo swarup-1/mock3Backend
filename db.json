@@ -1,10 +1,17 @@
 {
-    "posts": [
-      { "id": 1, "title": "json-server1", "author": "typicode1" },
-      { "id": 2, "title": "json-server2", "author": "typicode2" }
-    ],
     "users": [
-      { "id": 1, "name": "nameofuser1"},
-      { "id": 2, "name": "nameofuser2"}
+      { "id": 1, "username":"sk", "email":"sk@gmail.com","password":"asdf"}
+    ],
+    "hotels": [
+      {
+        "category": "Family",
+        "image_url": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
+        "type_of_room": "AC",
+        "bed_type": "Double",
+        "no_of_persons":"2",
+        "capacity":"3",
+        "cost":"4000",
+        "booked":false
+      }
     ]
   }
